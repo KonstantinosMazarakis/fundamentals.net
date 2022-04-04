@@ -1,0 +1,13 @@
+C:\CodingDojo\c#\assigments\fundamentals.net\bin\Debug\netcoreapp3.1\fundamentals.net.exe
+C:\CodingDojo\c#\assigments\fundamentals.net\bin\Debug\netcoreapp3.1\fundamentals.net.deps.json
+C:\CodingDojo\c#\assigments\fundamentals.net\bin\Debug\netcoreapp3.1\fundamentals.net.runtimeconfig.json
+C:\CodingDojo\c#\assigments\fundamentals.net\bin\Debug\netcoreapp3.1\fundamentals.net.runtimeconfig.dev.json
+C:\CodingDojo\c#\assigments\fundamentals.net\bin\Debug\netcoreapp3.1\fundamentals.net.dll
+C:\CodingDojo\c#\assigments\fundamentals.net\bin\Debug\netcoreapp3.1\fundamentals.net.pdb
+C:\CodingDojo\c#\assigments\fundamentals.net\obj\Debug\netcoreapp3.1\fundamentals.net.csprojAssemblyReference.cache
+C:\CodingDojo\c#\assigments\fundamentals.net\obj\Debug\netcoreapp3.1\fundamentals.net.AssemblyInfoInputs.cache
+C:\CodingDojo\c#\assigments\fundamentals.net\obj\Debug\netcoreapp3.1\fundamentals.net.AssemblyInfo.cs
+C:\CodingDojo\c#\assigments\fundamentals.net\obj\Debug\netcoreapp3.1\fundamentals.net.csproj.CoreCompileInputs.cache
+C:\CodingDojo\c#\assigments\fundamentals.net\obj\Debug\netcoreapp3.1\fundamentals.net.dll
+C:\CodingDojo\c#\assigments\fundamentals.net\obj\Debug\netcoreapp3.1\fundamentals.net.pdb
+C:\CodingDojo\c#\assigments\fundamentals.net\obj\Debug\netcoreapp3.1\fundamentals.net.genruntimeconfig.cache
